@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Test output directories
+test-output/
+
+# Logs
+logs/
+
+# Visual Studio Code files
+.vscode/
